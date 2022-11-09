@@ -1,0 +1,66 @@
+/* stylesheet */
+
+#red {
+	background-color: red;
+	width: 600px;
+	height: 600px;
+	float: left;
+	margin: 1%;
+	position: relative;
+}
+
+#blueIn {
+	background-color: blue;
+	width: 300px;
+	height: 300px;
+	float: left;
+	margin: 1%;
+}
+
+#blueBottom {
+	background-color: blue;
+	width: 300px;
+	height: 300px;
+	float: left;
+	clear: left;
+	margin: 1%;
+}
+
+#blueRight {
+	background-color: blue;
+	width: 300px;
+	height: 300px;
+	float: left;
+	margin: 1%;
+}
+
+#blueLeft {
+	background-color: blue;
+	width: 300px;
+	height: 300px;
+	float: left;
+	margin: 1%;
+}
+
+
+#green {
+	background-color: green;
+	width: 1000px;
+	height: 650px;
+}
+	
+.fifth {
+	position: absolute;
+	right: 45px;
+	top: 20px;
+}
+
+.six {
+	position: absolute;
+	left: 1%;
+	top: 1%;
+}
+
+.hidden {
+	display: none;
+}
